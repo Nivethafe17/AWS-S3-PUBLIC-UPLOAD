@@ -77,3 +77,9 @@ The following policy was added under the "Permissions > Bucket Policy" section o
   ]
 }
 
+#output
+
+![Image](https://github.com/user-attachments/assets/7e12b812-e05d-468b-8064-d58004c5310a)
+
+![Image](https://github.com/user-attachments/assets/d36e6a96-8dd3-4625-8731-c4dc93927597)
+
