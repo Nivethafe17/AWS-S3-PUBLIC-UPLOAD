@@ -61,6 +61,10 @@ You can click on the link to directly view the image from anywhere without requi
 ---
 #output
 
+![Image](https://github.com/user-attachments/assets/fc472b3d-3c2e-4d01-b191-11a28e68835a)
+
+![Image](https://github.com/user-attachments/assets/9760b144-c2ec-4129-8797-56f672c618da)
+
 ## 🔐 Bucket Policy Used
 
 The following policy was added under the "Permissions > Bucket Policy" section of the S3 console:
